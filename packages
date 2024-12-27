@@ -1,7 +1,7 @@
 version 2
 
 // music
-"rott_sc55" "priority=1" "category=Music" "title=Rise of the Triad soundtrack (SC-55)" "ver=1.0" "gamedir=triadarena" "file=rott_sc55.zip" "url=https://erysdren.me/triadarena/rott_sc55.zip" "qhash=0x4fa37247" "author=Lee Jackson, Bobby Prince, Brandon Blume" "desc=Rise of the Triad's soundtrack recorded with a Roland SC-55." "website=https://sc55.duke4.net/" "dlsize=59287631" "sha1=9d7b37af37376ada8bc375fbd4fd18ba3d197cbd" "license=Freeware"
+"rott_sc55" "priority=1" "category=Music" "title=Rise of the Triad soundtrack (SC-55)" "ver=1.0" "gamedir=triadarena" "file=rott_sc55.zip" "url=https://erysdren.me/triadarena/rott_sc55.zip" "qhash=0x4fa37247" "author=Lee Jackson, Bobby Prince and Brandon Blume" "desc=Rise of the Triad's soundtrack recorded with a Roland SC-55." "website=https://sc55.duke4.net/" "dlsize=59287631" "sha1=9d7b37af37376ada8bc375fbd4fd18ba3d197cbd" "license=Freeware"
 
 // levels
 "ohiortc" "priority=1" "category=Levels" "title=Ohio Comm-Bat Levels from Apogee" "ver=1.0" "gamedir=triadarena" "file=ohiortc.zip" "url=https://erysdren.me/triadarena/ohiortc.zip" "qhash=0xc70d6248" "author=Tom Hall and Joe Siegler" "desc=These four COMM-BAT™ levels were created by Apogee exclusively for the BloodFest '96 ROTT competition in Ohio." "website=https://legacy.3drealms.com/rott/" "dlsize=5500" "sha1=8ce88cdceddb64d7f219fcadfb03f56f8f9e03fe" "license=Freeware"
